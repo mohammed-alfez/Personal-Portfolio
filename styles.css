@@ -516,6 +516,10 @@ main .img img {
   font-size: 3rem;
 }
 
+.btns{
+  display: flex;
+}
+
 .card {
   width: 60%;
   min-width: 600px;
